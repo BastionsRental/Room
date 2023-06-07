@@ -1,5 +1,4 @@
 ## 3D code room
-### spline
 
 ![code room](img/1st.PNG)
 
